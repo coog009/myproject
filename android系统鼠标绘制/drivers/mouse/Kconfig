@@ -1,0 +1,5 @@
+config MOUSE
+    tristate "Mouse Register Driver"
+    default n
+    help
+    This is the mouse position driver for android system
